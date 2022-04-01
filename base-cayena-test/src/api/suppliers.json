@@ -1,0 +1,68 @@
+{
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Distribuidora Alterado 1",
+      "cnpj": "01.254.454/0001-93",
+      "phoneNumber": "5511985412574",
+      "zipCode": "128457174",
+      "address": "Avenida Ceci",
+      "number": "74",
+      "complement": "Cj 74",
+      "neighborhood": "Mirandópolis",
+      "city": "São Paulo",
+      "state": "SP",
+      "ownerName": "Carl",
+      "ownerEmail": "ca@email.com",
+      "ownerPhoneNumber": "5511912365474"
+    },
+    {
+      "id": 2,
+      "name": "Distribuidora Alterado 2",
+      "cnpj": "17.408.116/0001-67",
+      "phoneNumber": "551628043789",
+      "zipCode": "14095530",
+      "address": "Rua José Stupello",
+      "number": "321",
+      "complement": "",
+      "neighborhood": "Parque Anhangüera",
+      "city": "Ribeirão Preto",
+      "state": "SP",
+      "ownerName": "Antonio Santos",
+      "ownerEmail": "ca@email.com",
+      "ownerPhoneNumber": "5516985934394"
+    },
+    {
+      "id": 3,
+      "name": "Distribuidora Alterado 3",
+      "cnpj": "38.623.869/0001-65",
+      "phoneNumber": "556635505033",
+      "zipCode": "78860970",
+      "address": "Avenida Brasil",
+      "number": "133",
+      "complement": "",
+      "neighborhood": "Centro",
+      "city": "Nova Brasilândia",
+      "state": "MT",
+      "ownerName": "Tatiane",
+      "ownerEmail": "tatiane@email.com",
+      "ownerPhoneNumber": "5566995801919"
+    },
+    {
+      "id": 4,
+      "name": "Distribuidora Alterado 4",
+      "cnpj": "07.792.162/0001-59",
+      "phoneNumber": "551184524592",
+      "zipCode": "054215800",
+      "address": "Avenida Fulano",
+      "number": "37",
+      "complement": "Apto 88",
+      "neighborhood": "Tatuapé",
+      "city": "São Paulo",
+      "state": "SP",
+      "ownerName": "Vanessa Pereira",
+      "ownerEmail": "vanessa@email.com",
+      "ownerPhoneNumber": "5511996541247"
+    }
+  ]
+}

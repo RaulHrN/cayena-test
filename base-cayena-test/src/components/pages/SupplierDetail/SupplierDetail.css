@@ -1,0 +1,112 @@
+.Detail_Body {
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+
+.Detail_Body-Header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.Detail_Button {
+    background-color: #7851A9 !important;
+    width: 20%;
+    max-width: 270px;
+    height: auto;
+    color: white !important;
+    font-size: 22px !important;
+    font-weight: 600 !important;
+    text-shadow: 0px 4px 4px hsl(0, 0%, 25%) !important;
+    border-radius: 12px !important;
+    border: 1px solid black !important;
+}
+
+.Detail-Info_Body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Detail_Form-Body, .Detail_Form-Address-Body {
+    width: 48%;
+    margin-top: 40px;
+    padding: 20px 20px 30px;
+    background: rgba(241, 241, 241, 0.65);
+    box-shadow: 1px 1px 12px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 26px;
+    color: #7851A9;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Detail_Form-Input-Body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Detail_Form-Input {
+    width: 98%;
+    margin-top: 20px;
+}
+
+.Detail_Form-Input p {
+    font-size: 18px;
+    font-weight: 700;
+    color: #7851A9;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Detail_Form-Input input {
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    padding-left: 20px;
+    border: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+}
+
+.Detail_Form-Address-Body {
+    width: 100%;
+    max-height: 350px;
+}
+
+.Detail_Form-Address-Body section {
+    width: 48%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Detail_Form-Input-Adress {
+    width: 100% !important;
+}
+
+.Detail_Form-Adress-Input-Body {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   flex-wrap: wrap;
+}
+
+.Detail_Form-Input-Adress input{
+    width: 100% !important;
+}
+
+.Input-Adress{
+    width: 48%;
+}

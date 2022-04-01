@@ -1,0 +1,51 @@
+.Supplier-Card {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.Supplier-Card_body {
+    width: 400px;
+    height: 195px;
+    padding: 10px;
+    margin: 25px;
+    background: rgba(241, 241, 241, 0.65);
+    box-shadow: 1px 1px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.Supplier-Card_Info {
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Supplier-Card_Owner-Name {
+    font-weight: 700;
+    font-size: 16px;
+    color: #7851A9;
+}
+
+.Supplier-Card_Buttons-Body{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.Supplier-Card_button {
+    background-color: #7851A9 !important;
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem !important;
+    color: white !important;
+    font-size: 22px !important;
+    font-weight: 600 !important;
+    text-shadow: 0px 4px 4px hsl(0, 0%, 25%) !important;
+    border-radius: 12px !important;
+    border: 1px solid black !important;
+}

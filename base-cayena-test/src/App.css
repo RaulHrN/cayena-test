@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins";
+  box-sizing: border-box;
+  text-decoration: none !important;
+  font-style: italic !important;
+}
+
+html, body{
+  min-height: 100% !important;
+  min-width: 100% !important;
+}
+
+#root{
+  width: 100% !important;
+  min-height: 100% !important;
+  padding-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
